@@ -29,3 +29,5 @@ Fork 到自己的账号下，将 `.github/workflows` 下 `.yml` 文件中的 `ru
 * [klever1988/nanopi-openwrt](https://github.com/klever1988/nanopi-openwrt)
 * [yangliu/NanoPi-R2S](https://github.com/yangliu/NanoPi-R2S)
 * [maxming2333/NanoPi-R2S](https://github.com/maxming2333/NanoPi-R2S)
+
+# END
